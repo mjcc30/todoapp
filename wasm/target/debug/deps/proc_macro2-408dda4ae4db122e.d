@@ -1,0 +1,12 @@
+/home/maxime/TEST/todoapp/wasm/target/debug/deps/proc_macro2-408dda4ae4db122e.rmeta: /home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/lib.rs /home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/marker.rs /home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/parse.rs /home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/detection.rs /home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/fallback.rs /home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/wrapper.rs
+
+/home/maxime/TEST/todoapp/wasm/target/debug/deps/libproc_macro2-408dda4ae4db122e.rlib: /home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/lib.rs /home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/marker.rs /home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/parse.rs /home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/detection.rs /home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/fallback.rs /home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/wrapper.rs
+
+/home/maxime/TEST/todoapp/wasm/target/debug/deps/proc_macro2-408dda4ae4db122e.d: /home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/lib.rs /home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/marker.rs /home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/parse.rs /home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/detection.rs /home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/fallback.rs /home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/wrapper.rs
+
+/home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/lib.rs:
+/home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/marker.rs:
+/home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/parse.rs:
+/home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/detection.rs:
+/home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/fallback.rs:
+/home/maxime/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/wrapper.rs:

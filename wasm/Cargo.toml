@@ -1,0 +1,17 @@
+[package]
+name = "wasm"
+version = "0.1.0"
+authors = ["Maxime Cordeiro <maxime.cordeiro@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.3"
+getrandom = { version = "0.2", features = ["js"] }
+wasm-bindgen = "0.2.70"
+
+[lib]
+name = "wisesayings"
+crate-type =["cdylib", "lib"]
+
